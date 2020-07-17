@@ -1,4 +1,4 @@
-module github.com/issue9/identicon
+module github.com/admpub/identicon
 
 require github.com/issue9/assert v1.3.4
 
